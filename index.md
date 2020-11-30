@@ -37,25 +37,25 @@ The figures from my notebooks are saved in the `Figs` subdirectory and shown in 
 
 ### Analyses and Notebooks
  
-#### [Annual Mean] (https://github.com/KaiHuang94/CLIM680/blob/master/project.annual.mean.ipynb)  
+#### [Annual Mean](https://github.com/KaiHuang94/CLIM680/blob/master/project.annual.mean.ipynb)  
 
 The annual mean of OLR. High value in tropics and decreases poleward. 
 
-#### [Climatology] (https://github.com/KaiHuang94/CLIM680/blob/master/project.monthly.climatology.ipynb)
+#### [Climatology](https://github.com/KaiHuang94/CLIM680/blob/master/project.monthly.climatology.ipynb)
 
 The monthly climatology of OLR. Similar patterns as the annual mean, but with relatively higher values in the summer hemisphere. 
 
-#### [Calculate the RMM index] (https://github.com/KaiHuang94/CLIM680/blob/master/project.rmm.ipynb)
+#### [Calculate the RMM index](https://github.com/KaiHuang94/CLIM680/blob/master/project.rmm.ipynb)
 
 Two leading EOFs and corresponding PCs based on the meridional means (15S-15N) of u850, u200, and OLR are constructed. 
 EOF1 illustrates the mode of MJO with its convection active center over the Indian center, and a baroclinic circulation with convergence at low troposphere and divergence at high troposphere. 
 EOF2 illustrates the mode of MJO with its convection avtive center over the west Pacific while its depressed convection center over Indian Ocean, also accompained with a baroclinic circulation.
 
-#### [Calculate OLR Composites of EOF1 and EOF2] (https://github.com/KaiHuang94/CLIM680/blob/master/project.rmm.composite.ipynb)
+#### [Calculate OLR Composites of EOF1 and EOF2](https://github.com/KaiHuang94/CLIM680/blob/master/project.rmm.composite.ipynb)
 
 Link to notebook and describe results
 
-####  [Calculate the Mean Difference between Composites with Significance] ()
+####  [Calculate the Mean Difference between Composites with Significance]()
 
 Link to notebook and describe results
 
