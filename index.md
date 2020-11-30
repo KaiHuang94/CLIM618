@@ -37,7 +37,8 @@ The figures from my notebooks are saved in the `Figs` subdirectory and shown in 
 
 ### Analyses and Notebooks
  
-#### [Annual Mean](https://github.com/KaiHuang94/CLIM680/blob/master/project.annual.mean.ipynb)  
+#### Annual Mean
+[project.annual.mean.ipynb](https://github.com/KaiHuang94/CLIM680/blob/master/project.annual.mean.ipynb)  
 
 The annual mean of OLR. High value in tropics and decreases poleward. 
 
