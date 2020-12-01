@@ -84,7 +84,7 @@ Over the ITCZ and west Indian, the nonlinear mode is with a relatively stronger 
 It is interesting that over the MC, the nonlinear mode is always with a relatively weaker convection. It may be realted to the advection terms, because the surface temperature and moisture is always high there due to the warm pool. Considering that, the advections in or out of that region always lead to negative temperature/moisture tendencies. But this is only a hypothesis. Over MC, there are many nonlinear processes, such as the sub-grid convection and cloud processes, radiations, and the atmosphere/ocean mixed layer processes. 
 Therefore, more dynamic processes should be diagnosed to investigate the above hypothesis. 
 
-### One techinic problem
+### One technical problem
 I tried to read in multiple data files using `xarray.open_mfdataset`. 
 The dataset is very large with daily 4D (37 vertial layers, 2.5deg horizontal resolution) outputs from 1979 to 2017 (50+ GB). It exceeds the memory size and therefore I could not read in the whole dataset.
 Is there any way in Python that I can read in the whole dataset, mabe by chunking the data? 
